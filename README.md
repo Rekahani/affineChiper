@@ -9,4 +9,4 @@
 *Hasil Enkrip dan Dekrip dari*
 ![1.png](Gambar/1.png)
 
-![2.png](Gambaer/2.png)
+![2.png](Gambar/2.png)
